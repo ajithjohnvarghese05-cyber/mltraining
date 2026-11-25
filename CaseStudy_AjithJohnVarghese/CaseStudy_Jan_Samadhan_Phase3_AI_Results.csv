@@ -1,0 +1,22 @@
+TestType,CitizenComplaintNarrative,AI_Generated_Response
+Manual Sample,"
+I have visited the electricity office four times regarding
+my damaged transformer, but nobody is taking responsibility.
+My family and the entire neighbourhood are suffering from
+frequent power cuts. I am extremely frustrated with the
+careless attitude of the officials. If this issue is not
+resolved immediately, I will complain to higher authorities.
+","1. NEUTRAL SUMMARY
+The citizen has complained about frequent power cuts affecting their family and the entire neighborhood. They have visited the electricity office four times but have not received satisfactory responses. The citizen is very frustrated with the carelessness of the officials and is considering reporting the issue to higher authorities if it is not resolved soon."
+Dataset Sample,i have not received my pension for the last three months despite submitting all required documents,"1. NEUTRAL SUMMARY
+The citizen has not received their pension for the past three months, which is a significant issue. The pension is a vital source of income for many citizens, and it is crucial that they receive it promptly. This complaint highlights a potential breach of service delivery by the government.
+
+2. SENTIMENT AND URGENCY ASSESSMENT
+The sentiment polarity is Negative. The citizen is frustrated and disappointed with the delay in receiving their pension. The urgency is High, as the citizen is concerned about their financial stability and the potential consequences of not receiving their pension.
+
+3. DRAFT ACKNOWLEDGMENT LETTER
+Dear [Citizen's Name],
+I am writing to acknowledge your concern regarding the delay in receiving your pension. I understand the importance of timely payments and appreciate your patience during this time. We will work closely with the relevant departments to resolve this issue as soon as possible. Your satisfaction is our top priority.
+Thank you for bringing this to our attention.
+Sincerely,
+[Your Name]"
